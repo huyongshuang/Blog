@@ -1,0 +1,8 @@
+#songs:
+  - id: 1
+    title: "夜空中最亮的星"
+    artist: "逃跑计划"
+    src: "http://music.163.com/song/media/outer/url?id=1969013657.mp3"
+    cover: "https://images.unsplash.com/photo-1598387993499-40ad4b3adecd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+    smallCover: "https://images.unsplash.com/photo-1598387993499-40ad4b3adecd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
+    lrcFile: "lyrics/night-sky.lrc"

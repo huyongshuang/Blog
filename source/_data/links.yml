@@ -1,0 +1,20 @@
+- links_category: HTML工具
+  has_thumbnail: false
+  list:
+      - name: 网易云音乐下载
+        link: /html/cloudmusic-download
+        description: 直接下载网易云非VIP尊享的mp3格式音乐。
+        avatar:
+        thumbnail:
+
+- links_category: HTML小游戏
+  has_thumbnail: false
+  list:
+      - name: Example Site
+        link: https://example.com
+        description:
+        avatar:
+      - name: Example Site 2
+        link: https://example.com
+        description:
+        avatar:
