@@ -213,7 +213,7 @@ navbar:
         帖子归档: /archives
         分类归档: /categories
         标签归档: /tags
-    视频链接:
+    视频:
       icon: fa-regular fa-video
       submenus:
         抖音: https://v.douyin.com/USq91Jn
@@ -226,43 +226,27 @@ navbar:
         搜狐视频: https://tv.sohu.com/user/334351365
         好看视频: https://haokan.baidu.com/author/1639304967228015
         YouTube: https://www.youtube.com/@huyongshuang
-    内容链接:
-      icon: fa-regular fa-pen-to-square
-      submenus:
-        头条号: https://www.toutiao.com/c/user/1596089100415331/
-        百家号: https://baijiahao.baidu.com/u?app_id=1639304967228015
-        搜狐号: https://mp.sohu.com/profile?xpt=MTAyNDc3MjU5Nzc0Njc4MjIwOEBzb2h1LmNvbQ
-        企鹅号: https://media.om.qq.com/author?id=MP8Gjymfum9SbOt06jtPbBMw0
-        大鱼号: http://a.mp.uc.cn/media.html?mid=6e54dc45fc21492d94e143d84d589aa5
-        网易号: https://www.163.com/dy/media/T1769350667916.html
+    链接:
+      icon: fa-regular fa-link
+      path: /bookmarks
+    资源:
+      icon: fa-regular fa-download
+      path: /resource
     HTML:
       icon: fa-solid fa-code
       path: /html
-
-
     音乐馆:
       icon: fa-light fa-music
       path: /music
-
-
-
-
-
     关于:
       icon: fa-regular fa-user
       submenus:
         胡永双: /huyongshuang
+        关于博客: /pages/about-blog.html
+    留言:
+      icon: fa-regular fa-comments
+      path: /message
 
-
-
-
-
-    # Links: 
-    #   icon: fa-regular fa-link
-    #   submenus:
-    #     Link1: /link1
-    #     Link2: /link2
-    #     Link3: /link3
     # ...... # 你可以添加更多
   # 导航栏搜索（本地搜索）. 需要hexo-generator-searchdb (npm i hexo-generator-searchdb). 见：https://github.com/theme-next/hexo-generator-searchdb
   search:
@@ -360,7 +344,7 @@ articles:
   # 是否开启图片懒加载
   lazyload: true
   # Pangu.js (automatically add space between Chinese and English). 见：https://github.com/vinta/pangu.js
-  pangu_js: true
+  pangu_js: false
   # 文章推荐. 需要nodejieba (npm install nodejieba). 移植自hexo-theme-volantis.
   recommendation:
     # 是否开启推荐文章
@@ -483,52 +467,52 @@ plugins:
     audios:
       - name: 像我这样的人 # 音乐名字
         artist: 毛不易 # 歌手
-        url: /music/毛不易 - 像我这样的人.mp3 # 音乐源的url
+        url: https://music.huyongshuang.top/毛不易 - 像我这样的人.mp3 # 音乐源的url
         cover: /music/cover/平凡的一天.jpg # 音乐的封面图片url
         lrc: /music/lrc/毛不易 - 像我这样的人.lrc # 歌词
       - name: 一个人想着一个人
-        artist: 一个人想着一个人
-        url: /music/一个人想着一个人.mp3
-        cover: /music/cover/一个人想着一个人.jpg
-        lrc: /music/lrc/一个人想着一个人.lrc
+        artist: Lone
+        url: https://music.huyongshuang.top/Lone - 一个人想着一个人.mp3
+        cover: /music/cover/Lone.jpg
+        lrc: /music/lrc/Lone - 一个人想着一个人.lrc
       - name: 济宁好孩子
         artist: 张卫
-        url: /music/张卫 - 济宁好孩子.mp3
+        url: https://music.huyongshuang.top/张卫 - 济宁好孩子.mp3
         cover: /music/cover/张卫作品集.jpg
         lrc: /music/lrc/张卫 - 济宁好孩子.lrc
       - name: 平凡的一天
         artist: 毛不易
-        url: /music/毛不易 - 平凡的一天.mp3
+        url: https://music.huyongshuang.top/毛不易 - 平凡的一天.mp3
         cover: /music/cover/平凡的一天.jpg
         lrc: /music/lrc/毛不易 - 平凡的一天.lrc
       - name: 一荤一素
         artist: 毛不易
-        url: /music/毛不易 - 一荤一素.mp3
+        url: https://music.huyongshuang.top/毛不易 - 一荤一素.mp3
         cover: /music/cover/平凡的一天.jpg
         lrc: /music/lrc/毛不易 - 一荤一素.lrc
       - name: 一程山路
         artist: 毛不易
-        url: /music/毛不易 - 一程山路.mp3
+        url: https://music.huyongshuang.top/毛不易 - 一程山路.mp3
         cover: /music/cover/小王.jpg
         lrc: /music/lrc/毛不易 - 一程山路.lrc
       - name: 东北民谣
         artist: 毛不易
-        url: /music/毛不易 - 东北民谣.mp3
+        url: https://music.huyongshuang.top/毛不易 - 东北民谣.mp3
         cover: /music/cover/小王.jpg
         lrc: /music/lrc/毛不易 - 东北民谣.lrc
       - name: 无名的人
         artist: 毛不易
-        url: /music/毛不易 - 无名的人.mp3
+        url: https://music.huyongshuang.top/毛不易 - 无名的人.mp3
         cover: /music/cover/无名的人.jpg
         lrc: /music/lrc/毛不易 - 无名的人.lrc
       - name: 看得最远的地方
         artist: 毛不易
-        url: /music/毛不易 - 看得最远的地方.mp3
+        url: https://music.huyongshuang.top/毛不易 - 看得最远的地方.mp3
         cover: /music/cover/月光、背影与海.jpg
         lrc: /music/lrc/毛不易 - 看得最远的地方.lrc
       - name: 梦与创造
         artist: 胡永双
-        url: /music/胡永双 - 梦与创造.mp3
+        url: https://music.huyongshuang.top/胡永双 - 梦与创造.mp3
         cover: /music/cover/根新.jpg
         lrc: /music/lrc/胡永双 - 梦与创造.lrc
       # .... 你可以在这里添加更多音频

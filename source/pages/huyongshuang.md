@@ -101,10 +101,10 @@ title: 胡永双
     <a href="#music">音乐</a>
     <a href="#about-life">成长箴言</a>
     <a href="#more">更多</a>
-    <a href="https://github.com/huyongshuang" target="_blank" title="GitHub"><i class="fa-brands fa-github" style="font-size: 25px; vertical-align: middle;"></i></a>
-    <a href="https://www.zhihu.com/people/huyongshuang" target="_blank" title="知乎"><i class="fa-brands fa-zhihu" style="font-size: 30px; vertical-align: middle;"></i></a>
-    <a href="https://afdian.com/a/huyongshuang" target="_blank" title="爱发电" style="display: inline-block; vertical-align: middle;"><img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" style="height: 27px; vertical-align: middle; pointer-events: none; transform: translateY(3px);"></a>
-    <a href="https://steamcommunity.com/id/huyongshuang" target="_blank" title="Steam"><i class="fa-brands fa-steam" style="font-size: 25px; vertical-align: middle;"></i></a>
+    <a href="https://github.com/huyongshuang" target="_blank" title="GitHub"><i class="fa-brands fa-github" style="font-size: 25px; vertical-align: middle; transform: translateY(-2px);"></i></a>
+    <a href="https://www.zhihu.com/people/huyongshuang" target="_blank" title="知乎"><i class="fa-brands fa-zhihu" style="font-size: 30px; vertical-align: middle; transform: translateY(-2px);"></i></a>
+    <a href="https://afdian.com/a/huyongshuang" target="_blank" title="爱发电" style="display: inline-block; vertical-align: middle;"><img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" style="height: 27px; vertical-align: middle; pointer-events: none; transform: translateY(1px);"></a>
+    <a href="https://steamcommunity.com/id/huyongshuang" target="_blank" title="Steam"><i class="fa-brands fa-steam" style="font-size: 25px; vertical-align: middle; transform: translateY(-2px);"></i></a>
   </nav>
 
   <section id="contact">
@@ -178,60 +178,102 @@ title: 胡永双
     <button id="playBtn" style="width: 35px; height: 35px; border: none; border-radius: 50%; background-color: blue; color: white; font-size: 16px; cursor: pointer; transition: all 0.3s ease; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 12px rgba(232, 74, 67, 0.4); display: inline-block; vertical-align: middle; margin-left: 27px;">▶</button>
     <div style="height: 20px;"></div>
     <div style="text-align: center; font-size: 18px;">
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第一条</p>
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第一条</p>
       如果成长是一道「多选题」，为什么他们要设计「标准答案」？
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第一条</p>
-      别再害怕那些证明题，因为在人生的试卷上，阅卷人就是你自己。
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第二条</p>
-      到底要逃到哪里，才能躲开原生家庭的阴影？
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第二条</p>
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第一条</p>
+      别再害怕那些证明题。因为在人生的试卷上，阅卷人就是你自己。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第二条</p>
+      到底要逃到哪里，才能逃开原生家庭的阴影？
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第二条</p>
       从拥有一个小空间开始，我对自己的世界，终于有了一点点的掌控力。
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第三条</p>
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第三条</p>
       人倒霉的时候，真是喝凉水都塞牙。
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第三条</p>
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第三条</p>
       一代人有一代人的「问题」。
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第一条</p>
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第一条</p>
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第一条</p>
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第一条</p>
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第一条</p>
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第一条</p>
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第一条</p>
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第一条</p>
-      <p style="color: red; margin-bottom: 5px; margin-top: 15px;">成长烦恼第一条</p>
-      <p style="color: blue; margin-bottom: 5px; margin-top: 10px;">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
-      <p style="color: red">成长烦恼第一条</p>
-      <p style="color: blue">成长箴言第一条</p>
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第四条</p>
+      我们最大的压力，并不来源于长辈、社会、或者时代，它最大的来源，是同龄人的成就。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第四条</p>
+      在人生的竞争中，我们需要战胜的其实只有一个人，那就是过去的自己。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第五条</p>
+      我是我自己，不是父母的复制品。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第五条</p>
+      原来父母无条件的相信，才是我走到今天的理由。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第六条</p>
+      我的朋友圈里，到底还有多少朋友？
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第六条</p>
+      被伤害，然后学会坚韧；伤害人，然后学会温柔。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第七条</p>
+      集体活动让一群人狂欢，让另一群人更深刻地明白，自己有多孤独。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第七条</p>
+      你没有必要强迫自己去交朋友，如果没有遇到志同道合的人，就先学会和自己相处。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第八条</p>
+      “你像个学生”，什么时候成了贬义词？
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第八条</p>
+      就算已经不是学生，我们也依然有做梦的权利。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第九条</p>
+      原来十几岁时射入生命的子弹，击中的不只是那时的心脏，还有往后的人生。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第九条</p>
+      十几岁时的我们最厉害的不是年轻，是不论目标有多渺茫，都能奋不顾身的全力奔跑。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十条</p>
+      我不是爱拼才会赢，是爱赢才会拼。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十条</p>
+      我们不妄自菲薄，也应该坦然接受别人的优秀。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十一条</p>
+      喜欢一个人的心情，是三分自我陶醉，七分自我折磨。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十一条</p>
+      那些青春里必须放下的感情，多年后回头看，或许会感叹错过即是放过吧。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十二条</p>
+      人与人之间的缘分，真是一道永恒难解的题。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十二条</p>
+      缘分的有趣之处也在于它的时差，发生的那一刻，它总是无人知晓。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十三条</p>
+      越长大越发现，在感情的世界里，大部分时间我们只不过是别人的配角。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十三条</p>
+      原来那些童年里不曾拥有的东西，会变成萤火虫，布满我们人生的来路。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十四条</p>
+      我的日子滴在时间的流里，没有声音，也没有影子。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十四条</p>
+      在逃去如飞的日子里，没有什么，是时间无法治愈的。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十五条</p>
+      长大后的我们，没有学会体面地面对崩溃，那些无法化解的情绪，统一被我们伪装成了潇洒。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十五条</p>
+      人真正喜欢的事物，是无法被隐藏的，一旦重新接近，就会立刻被再次吸引。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十六条</p>
+      人要有多成熟，才能直面自己的幼稚？
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十六条</p>
+      所谓成熟，就是我们终于不用，在失去了某样东西之后，才明白它有多珍贵。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十七条</p>
+      即使面对最好的朋友，我们也无法坦然展示最糟的自己。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十七条</p>
+      世界破破烂烂，还好有人缝缝补补，原来真正在乎的人，会温柔地拥抱你所有的不堪。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十八条</p>
+      长大就是不断地分别。是不是总有一天，我们都会变成不一样的人？
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十八条</p>
+      就算成长让我们变成了不同的人，真正的朋友之间也会有一种默契，能穿透时间和距离，紧紧相拥。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第十九条</p>
+      人在拥有了「理想」之后，才会意识到自己的「渺小」。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第十九条</p>
+      为自己的错误和选择负责任，才是真正的成人仪式。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第二十条</p>
+      长大后才发现，有些事，努力了，也不一定有结果。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第二十条</p>
+      原来十几岁的我们，早已拥有了全世界。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第二十一条</p>
+      我们的成长到底要多快，才能追上家人老去的速度。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第二十一条</p>
+      从被照顾到照顾别人，我们长大了，他们老了。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第二十二条</p>
+      那些嘴上说着为了我们好的人，却根本不在乎我们觉得什么好。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第二十二条</p>
+      如果有一天我也成为别人的家长，但愿我不会忘记做小孩的感受。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第二十三条</p>
+      别人的期待，可以压垮一个人的青春。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第二十三条</p>
+      不管十几岁的梦想有没有实现，至少我们都不要成为，曾经看不起的大人。
+      <p style="color: red; margin-bottom: 5px; margin-top: 15px; font-weight: 800;">成长烦恼第二十四条</p>
+      我们这一代人离世界更近，却离家人和朋友更远了。
+      <p style="color: blue; margin-bottom: 5px; margin-top: 10px; font-weight: 800;">成长箴言第二十四条</p>
+      成长珍贵，少年你更珍贵！
     </div>
   </section>
 
@@ -349,7 +391,7 @@ title: 胡永双
   });
 
   const playBtn = document.getElementById('playBtn');
-  const audio = new Audio('http://music.163.com/song/media/outer/url?id=2672603652.mp3');
+  const audio = new Audio('https://music.163.com/song/media/outer/url?id=2672603652.mp3');
   audio.loop = true;
   let isPlaying = false;
 

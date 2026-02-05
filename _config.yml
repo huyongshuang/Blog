@@ -29,6 +29,8 @@ category_dir: categories # 分类文件夹
 code_dir: downloads/code # Include code文件夹，source_dir下的子目录
 i18n_dir: :lang # 国际化（i18n）文件夹
 skip_render:  # 跳过渲染
+  - "huyongshuang/**"
+  - "message/**"
   - "_posts/Hexo-2/config.yml"
   - "_posts/Hexo-3/*.yml"
   - "_posts/copy-yaml/**"

@@ -67,10 +67,19 @@ async function loadMusicData() {
                 id: 1,
                 title: "梦与创造",
                 artist: "胡永双",
-                src: "http://music.huyongshuang.top/胡永双 - 梦与创造.mp3",
-                cover: "http://music.huyongshuang.top/cover/根新.jpg",
-                smallCover: "http://music.huyongshuang.top/cover/根新.jpg",
+                src: "https://music.huyongshuang.top/胡永双 - 梦与创造.mp3",
+                cover: "https://music.huyongshuang.top/cover/根新.jpg",
+                smallCover: "https://music.huyongshuang.top/cover/根新.jpg",
                 lrcFile: "/music/lrc/胡永双 - 梦与创造.lrc"
+            },
+            {
+                id: 2,
+                title: "一个人想着一个人",
+                artist: "Lone",
+                src: "https://music.huyongshuang.top/Lone - 一个人想着一个人.mp3",
+                cover: "https://music.huyongshuang.top/cover/Lone.jpg",
+                smallCover: "https://music.huyongshuang.top/cover/Lone.jpg",
+                lrcFile: "/music/lrc/Lone - 一个人想着一个人.lrc"
             }
         ];
         
